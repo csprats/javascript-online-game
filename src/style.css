@@ -1,0 +1,10 @@
+html {
+  background-color: #eee;
+  display: grid;
+  place-content: center;
+}
+canvas {
+  display: block; /* Elimina el espacio extra debajo del canvas */
+  border: solid black 1px;
+  border-radius: 16px;
+}
